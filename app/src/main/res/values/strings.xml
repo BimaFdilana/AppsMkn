@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="superhero_name">Superhero Name</string>
+    <string name="description">Description</string>
+    <string name="home">Resep</string>
+    <string name="list">Home</string>
+    <string name="profil">Profil</string>
+</resources>
